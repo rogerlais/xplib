@@ -1,0 +1,6 @@
+[submodule "ExtMods/generics.collections"]
+	path = ExtMods/FPC/generics.collections
+	url = https://github.com/dathox/generics.collections
+[submodule "ExtMods/FPC/generics.collections"]
+	path = ExtMods/FPC/generics.collections
+	url = https://github.com/dathox/generics.collections
