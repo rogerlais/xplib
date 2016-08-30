@@ -1,0 +1,13 @@
+Definição das variáveis a serem usadas pelos compiladores:
+
+[Delphi]
+C:\Sw\WorkDir\Lib\BDS\Win64\Release
+
+OutputDir=
+UnitOutputDir=C:\sw\WorkDir\Lib\D2010
+PackageDLLOutputDir=C:\sw\WorkDir\Lib\D2010
+PackageDCPOutputDir=C:\sw\WorkDir\Lib\D2010
+SearchPath=C:\sw\WorkDir\Lib\D2010
+
+
+$(PkgOutDir)
